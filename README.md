@@ -202,4 +202,3 @@ This project is for educational purposes.
 
 ---
 
-Si quieres, te puedo hacer una versión **más corta (tipo GitHub bonito con badges)** o una versión **más pro para portafolio** 😎
