@@ -1,6 +1,4 @@
-Listo, te hice un **README profesional en inglés** basado en tu proyecto 👇 (ya listo para pegar en tu repo):
 
----
 
 # 🚀 Workspace Reservation System SPA
 
